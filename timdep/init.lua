@@ -1,6 +1,6 @@
-module(...)
-import 'sys'
+require 'sys'
+module(..., package.seeall)
 
 function test() 
-    print('v1.0')
+    print('v1.1')
 end
