@@ -1,7 +1,8 @@
 package = "timdep"
 version = "1.0-1"
 source = {
-    url = "..." -- We don't have one yet
+    url = "git+file://git@github.com:timharley/timdep.git",
+    tag = 'v1.0'
 }
 dependencies = {
     "lua ~> 5.1"
