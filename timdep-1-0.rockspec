@@ -1,5 +1,5 @@
 package = "timdep"
-version = "1.0-1"
+version = "1-0"
 source = {
     url = "git+file://git@github.com:timharley/timdep.git",
     tag = 'v1.0'
